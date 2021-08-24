@@ -1,0 +1,2 @@
+# D-composition-en-valeurs-singuli-res-d-une-matrice-et-ses-applications
+Le but de ce projet est de faire la décomposition en valeurs singulières d'une grande matrice en utilisant l'algorithme de bidiagonalisation de golub-kahan + l'algorithme QR, ensuite nous devons écrire le code en utilisant C++ et voir les résultats, et enfin nous devons voir l'application du programme sur le Text Mining et sur l’analyse textuelle d’un corpus d’emails.
